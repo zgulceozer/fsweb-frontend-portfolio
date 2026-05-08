@@ -77,7 +77,7 @@ function Hero() {
           
           {/* FOTOĞRAF BURAYA */}
           <img
-            src="public/profilephoto.png"
+            src="/profilephoto.png"
             alt="Gülce"
             className="w-full h-full object-cover"
           />
