@@ -191,7 +191,7 @@ export const portfolioData = {
         app: "İncele →",
 
         githubUrl: "https://github.com/zgulceozer",
-          image:"public/histolocallogo.png",
+          image:"/histolocallogo.png",
 
         bg: "bg-blue-100",
 
@@ -210,7 +210,7 @@ export const portfolioData = {
         app: "İncele →",
 
         githubUrl: "https://github.com/zgulceozer",
-         image:"public/home-banner.png",
+         image:"/home-banner.png",
 
         bg: "bg-green-100",
 
